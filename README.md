@@ -2,7 +2,7 @@
 <h3 align="center">Python software engineer skilled in building robust and scalable web apps with FastAPI,proficient in front-end tech like HTML/CSS/JS. Expertise in data science tools like Scikit-Learn, Pandas, TensorFlow, and OpenCV to drive impactful solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abirmunna&label=Profile%20views&color=0e75b6&style=flat" alt="rabir-brac" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abir-brac&label=Profile%20views&color=0e75b6&style=flat" alt="abir-brac" /> </p>
 <br>
 <br>
 
